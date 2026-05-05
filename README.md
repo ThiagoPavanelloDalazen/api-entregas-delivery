@@ -48,6 +48,8 @@ npm run dev
 - Zod 3.23.8
 - express-async-errors 3.1.1
 - Prisma 5.19.1
+- jsonwebtoken 9.0.2
+- bcrypt 5.1.1
 
 ### Banco de dados
 - PostgreSQL (via Docker + Bitnami)
